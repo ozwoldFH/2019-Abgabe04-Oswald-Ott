@@ -23,6 +23,18 @@
 		  <properties>
 			<picUrl>https://avatars2.githubusercontent.com/u/15637184</picUrl>
 		  </properties>
+		</developer>
+        
+		<developer>
+		  <id>clemensott</id>
+		  <name>Clemens Ott</name>
+		  <email>clemens.ott@edu.fh-joanneum.at</email>
+		  <organization>FH JOANNEUM GmbH</organization>
+		  <organizationUrl>https://www.fh-joanneum.at/iit</organizationUrl>
+		  <roles>
+			<role>Student</role>
+		  </roles>
+		  <timezone>Europe/Vienna</timezone>
 		</developer>     
 	</developers>
 	
