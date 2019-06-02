@@ -4,15 +4,24 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
 
-// there's some Bugs included, try to debug the code and fix the Bugs
-// there are different Bugs, wrong implementation, typos, ...
-// write Test-Cases (read Queue Interface for understanding methods) and use Debugging possibilies of your IDE
-
+/**
+ * A simple StringQueue class which implements the Queue interface.
+ * This class only works with Strings and has a limited size of 5 elements by default.
+ *
+ * @author Michael Ulm
+ * @author Clemens Ott
+ * @author George Oswald
+ * @version %I%, %G%
+ */
 public class StringQueue implements Queue {
 	
 	private List<String> elements = new ArrayList<String>();
 	private int maxSize = 5;
 
+	/**
+	 * The maximum size of elements can be changed here.
+	 * @param maxsize Change size of max elements.
+	 */
 	public StringQueue(int maxsize){
 		this.maxSize = maxsize;
 	}
