@@ -18,12 +18,12 @@ preparation for the upcoming exam.
 
 ### Task list
   
-- [ ] Read exercise specification 
+- [x] Read exercise specification 
 - [x] Create task list in Markdown Readme
-- [ ] Queue template as init commit project
-  - [ ] Pull/clone from https://github.com/michaelulm/softwareconfiguration-management/tree/master/test-automation/Queue
-  - [ ] Create a repository named 2019-Abgabe04-Oswald-Ott
-  - [ ] init commit
+- [x] Queue template as init commit project
+  - [x] Pull/clone from https://github.com/michaelulm/softwareconfiguration-management/tree/master/test-automation/Queue
+  - [x] Create a repository named 2019-Abgabe04-Oswald-Ott
+  - [x] init commit
 - [ ] Find and correct 3 errors in source code
 - [ ] For class and all methods add comments and create a document with Javadoc
   - [ ] Integrate an image
@@ -32,7 +32,7 @@ preparation for the upcoming exam.
   - [ ] Add comments for JavaDoc
   - [ ] Integrate an image for the generated document
 - [ ] Edit pom.xml
-  - [ ] Update Developers information
+  - [x] Update Developers information
   - [ ] Integration logging library log4j using Maven Dependencies
 - [ ] Integrate Log4j (Version 2)
   - [ ] Create a static logger that writes to the console.

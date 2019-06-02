@@ -35,7 +35,19 @@
 			<role>Student</role>
 		  </roles>
 		  <timezone>Europe/Vienna</timezone>
-		</developer>     
+		</developer>
+
+		<developer>
+			<id>georgeoswald</id>
+			<name>George Oswald</name>
+			<email>george.oswald@edu.fh-joanneum.at</email>
+			<organization>FH JOANNEUM GmbH</organization>
+			<organizationUrl>https://www.fh-joanneum.at/iit</organizationUrl>
+			<roles>
+				<role>Student</role>
+			</roles>
+			<timezone>Europe/Vienna</timezone>
+		</developer>
 	</developers>
 	
     <build>
