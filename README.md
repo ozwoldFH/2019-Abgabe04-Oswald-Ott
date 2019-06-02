@@ -24,7 +24,7 @@ preparation for the upcoming exam.
   - [x] Pull/clone from https://github.com/michaelulm/softwareconfiguration-management/tree/master/test-automation/Queue
   - [x] Create a repository named 2019-Abgabe04-Oswald-Ott
   - [x] init commit
-- [ ] Find and correct 3 errors in source code
+- [x] Find and correct 3 errors in source code
 - [ ] For class and all methods add comments and create a document with Javadoc
   - [ ] Integrate an image
 - [ ] Create JUnit tests
