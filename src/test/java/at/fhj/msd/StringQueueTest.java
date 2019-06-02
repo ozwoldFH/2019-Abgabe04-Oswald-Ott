@@ -16,8 +16,11 @@ public class StringQueueTest {
 
     public StringQueue stringQueue;
 
+    /**
+     * Setup the queue with size of 4.
+     */
     @Before
-    public void setUp() throws Exception
+    public void setUp()
     {
         stringQueue = new StringQueue(4);
     }
@@ -87,9 +90,10 @@ public class StringQueueTest {
     /**
      * tests remove function.
      * an error should be returned.
+     * @throws NoSuchElementException NoSuchElementException
      */
     @Test(expected = NoSuchElementException.class)
-    public void removeEmptyList() {
+    public void removeEmptyList() throws NoSuchElementException {
         stringQueue.remove();
     }
 
@@ -133,10 +137,10 @@ public class StringQueueTest {
 
     /**
      * tests element function on empty list.
-     * returned element should be always the first element.
+     * @throws NoSuchElementException NoSuchElementException
      */
     @Test(expected = NoSuchElementException.class)
-    public void elementEmptyList() {
+    public void elementEmptyList() throws NoSuchElementException {
         stringQueue.element();
     }
 
