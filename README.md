@@ -25,8 +25,8 @@ preparation for the upcoming exam.
   - [x] Create a repository named 2019-Abgabe04-Oswald-Ott
   - [x] init commit
 - [x] Find and correct 3 errors in source code
-- [ ] For class and all methods add comments and create a document with Javadoc
-  - [ ] Integrate an image
+- [x] For class and all methods add comments and create a document with Javadoc
+  - [x] Integrate an image
 - [x] Create JUnit tests
   - [x] Create multiple "same" test cases to achieve "multiple variations" for an almost complete test.
   - [x] Add comments for JavaDoc
@@ -40,10 +40,10 @@ preparation for the upcoming exam.
   - [x] Output an info log message when calling any method.
   - [x] Output an error log message before throwing an error.
   - [x] Include the results (console output) as an image in the documentation.
-- [ ] Create Maven Site Documentation
+- [x] Create Maven Site Documentation
   - [x] Including Javadoc Code and Javadoc Test Classes
   - [x] Includes menu with reference to manually created page (explain how Queue works)
-  - [ ] Type a picture of the Maven Site documentation into the Lab Report
+  - [x] Put a picture of the Maven Site documentation into the Lab Report
 - [ ] Creation of detailed and comprehensible Markdown Lab Report
   - [ ] Create code block in document (Github Falvor) that displays 3 lines of Python and 3 lines of Java source code correctly.
   - [ ] Create PDF
