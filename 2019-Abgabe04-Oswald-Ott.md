@@ -22,6 +22,7 @@ Danach müssen wir **3 Fehler** im Source Code finden. Die Bilder zeigen den obe
 ![image](https://user-images.githubusercontent.com/48798254/59568458-3f5dcd80-907b-11e9-8abf-c4ce97fe79f4.png)
 
 Das erste Bild zeigt eine gleiche Zuweisung auf sich selbst. Unten nehmen wir den korrekten Parameter und fügen noch ein „this.“ hinzu, um Verwechslungen zu vermeiden.
+
 ![image](https://user-images.githubusercontent.com/48798254/59568461-52709d80-907b-11e9-9940-1b2877670c71.png)
 ![image](https://user-images.githubusercontent.com/48798254/59568464-57cde800-907b-11e9-81a7-baa904d16cd2.png)
 
