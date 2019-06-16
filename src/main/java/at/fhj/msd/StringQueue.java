@@ -49,11 +49,10 @@ public class StringQueue implements Queue {
 
 	@Override
 	public String remove() {
-		String element = poll();
-		if(element == null)
+		if(elements.size() == 0)
 			throw new NoSuchElementException("there's no element any more");
 		
-		return element;
+		return poll();
 	}
 
 	@Override
@@ -69,11 +68,10 @@ public class StringQueue implements Queue {
 
 	@Override
 	public String element() {
-		String element = peek();
-		if(element == null)
+		if(elements.size() == 0)
 			throw new NoSuchElementException("there's no element any more");
 		
-		return element;
+		return peek();
 	}
 
 }
