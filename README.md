@@ -44,7 +44,7 @@ preparation for the upcoming exam.
   - [x] Including Javadoc Code and Javadoc Test Classes
   - [x] Includes menu with reference to manually created page (explain how Queue works)
   - [x] Put a picture of the Maven Site documentation into the Lab Report
-- [ ] Creation of detailed and comprehensible Markdown Lab Report
-  - [ ] Create code block in document (Github Falvor) that displays 3 lines of Python and 3 lines of Java source code correctly.
-  - [ ] Create PDF
-- [ ] Check whether all tasks have been fulfilled
+- [x] Creation of detailed and comprehensible Markdown Lab Report
+  - [x] Create code block in document (Github Falvor) that displays 3 lines of Python and 3 lines of Java source code correctly.
+  - [x] Create PDF
+- [x] Check whether all tasks have been fulfilled
