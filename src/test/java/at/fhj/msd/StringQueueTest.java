@@ -88,7 +88,7 @@ public class StringQueueTest {
     }
 
     /**
-     * tests remove function.
+     * tests remove function on empty list.
      * an error should be returned.
      * @throws NoSuchElementException NoSuchElementException
      */
