@@ -27,19 +27,19 @@ preparation for the upcoming exam.
 - [x] Find and correct 3 errors in source code
 - [ ] For class and all methods add comments and create a document with Javadoc
   - [ ] Integrate an image
-- [ ] Create JUnit tests
-  - [ ] Create multiple "same" test cases to achieve "multiple variations" for an almost complete test.
-  - [ ] Add comments for JavaDoc
-  - [ ] Integrate an image for the generated document
-- [ ] Edit pom.xml
+- [x] Create JUnit tests
+  - [x] Create multiple "same" test cases to achieve "multiple variations" for an almost complete test.
+  - [x] Add comments for JavaDoc
+  - [x] Integrate an image for the generated document
+- [x] Edit pom.xml
   - [x] Update Developers information
-  - [ ] Integration logging library log4j using Maven Dependencies
-- [ ] Integrate Log4j (Version 2)
-  - [ ] Create a static logger that writes to the console.
-  - [ ] Configure logger via properties file.
-  - [ ] Output an info log message when calling any method.
-  - [ ] Output an error log message before throwing an error.
-  - [ ] Include the results (console output) as an image in the documentation.
+  - [x] Integration logging library log4j using Maven Dependencies
+- [x] Integrate Log4j (Version 2)
+  - [x] Create a static logger that writes to the console.
+  - [x] Configure logger via properties file.
+  - [x] Output an info log message when calling any method.
+  - [x] Output an error log message before throwing an error.
+  - [x] Include the results (console output) as an image in the documentation.
 - [ ] Create Maven Site Documentation
   - [ ] Including Javadoc Code and Javadoc Test Classes
   - [ ] Includes menu with reference to manually created page (explain how Queue works)
