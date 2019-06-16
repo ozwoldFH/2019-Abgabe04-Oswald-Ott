@@ -41,8 +41,8 @@ preparation for the upcoming exam.
   - [x] Output an error log message before throwing an error.
   - [x] Include the results (console output) as an image in the documentation.
 - [ ] Create Maven Site Documentation
-  - [ ] Including Javadoc Code and Javadoc Test Classes
-  - [ ] Includes menu with reference to manually created page (explain how Queue works)
+  - [x] Including Javadoc Code and Javadoc Test Classes
+  - [x] Includes menu with reference to manually created page (explain how Queue works)
   - [ ] Type a picture of the Maven Site documentation into the Lab Report
 - [ ] Creation of detailed and comprehensible Markdown Lab Report
   - [ ] Create code block in document (Github Falvor) that displays 3 lines of Python and 3 lines of Java source code correctly.
