@@ -1,2 +1,2 @@
-# Queue
-A queue is a data structure.
+## Queue
+A queue is a data structure which can take objects and return them in the same order. A common use case of a queue is a buffer. Check out [JavaDocs site](apidocs/at/fhj/msd/Queue.html "JavaDocs Queue") for more details.
