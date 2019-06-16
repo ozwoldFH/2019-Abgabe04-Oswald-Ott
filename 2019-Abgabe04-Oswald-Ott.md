@@ -37,7 +37,7 @@ Unsere Aufgabe bestand auch, dass wir für jede Klasse und jede Methode ein Komm
 
 ![image](https://user-images.githubusercontent.com/48798254/59568497-b5623480-907b-11e9-8424-0c69675601b9.png)
 
-Da Tests sehr wichtig sind in der Softwareentwicklung wurde anschließend die **StringQueueTest** Klasse erstellt, die wir auch mi entsprechenden Javadoc Kommentaren versehen haben. Diese werden werden ebenfalls automatisch generierte. Das untere Bild zeigt einen Ausschnitt:
+Da Tests sehr wichtig sind in der Softwareentwicklung wurde anschließend die **StringQueueTest** Klasse erstellt, die wir auch mit entsprechenden Javadoc Kommentaren versehen haben. Diese werden werden ebenfalls automatisch generiert. Das untere Bild zeigt einen Ausschnitt:
 
 ![image](https://user-images.githubusercontent.com/48798254/59568503-cd39b880-907b-11e9-9935-e124b4bdc24e.png)
 #
